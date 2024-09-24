@@ -6,11 +6,11 @@ on:
       LIBRARY_NAME:
         description: 'LIBRARY_NAME'
         required: true
-        default: 'Twrp_Device_Genter'
+        default: 'Twrp_Device_latte'
       IMG_URL:
         description: 'IMG_URL'
         required: true
-        default: 'https://github.com/momo54181/action_build_twrp_device_tree/raw/main/recovery.img'
+        default: 'https://github.com/mowentianxia/TWRP_Device_Tree/raw/main/recovery.img '
 
 jobs:
   build:
